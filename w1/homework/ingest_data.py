@@ -17,7 +17,7 @@ def main(params):
     port           = params.port
     db             = params.db
     table_name_1   = params.table_name_1
-    table_name_2   = params.table_name_1
+    table_name_2   = params.table_name_2
     url1           = 'https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz'
     url2           = 'https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv'
 
